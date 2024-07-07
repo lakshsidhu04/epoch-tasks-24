@@ -1,0 +1,535 @@
+,Unnamed: 0,CircleName,RegionName,DivisionName,OfficeName,Pincode,OfficeType,Delivery,District,StateName,Latitude,Longitude
+0,181,Punjab Circle,,Patiala Division,SWAI SINGH WALA B.O,147111,BO,Delivery,PATIALA,PUNJAB,30.2204,76.4964
+2,380,Punjab Circle,Punjab West Region,Faridkot Division,Smalsar S.O,142049,PO,Delivery,MOGA,PUNJAB,30.6389875,74.9985706
+3,431,Punjab Circle,Punjab West Region,Faridkot Division,Golewala S.O,151214,PO,Delivery,FARIDKOT,PUNJAB,30.790411,74.699154
+4,791,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,BALION BO,141114,BO,Delivery,LUDHIANA,PUNJAB,30.8607,76.1863
+5,1164,Punjab Circle,DivReportingCircle,Patiala Division,BHANRA BO,147007,BO,Delivery,PATIALA,PUNJAB,30.2549,76.2993
+6,1165,Punjab Circle,DivReportingCircle,Patiala Division,JANDOLI BO,140402,BO,Delivery,PATIALA,PUNJAB,30.483997,76.593948
+7,1224,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,GHUMNEWAL B.O,141110,BO,Delivery,LUDHIANA,PUNJAB,30.907711,75.650964
+9,1374,Punjab Circle,DivReportingCircle,Ludhiana City Division,BHATTIAN SO,141008,PO,Non Delivery,LUDHIANA,PUNJAB,30.5725,75.4938
+10,1724,Punjab Circle,DivReportingCircle,Chandigarh Division,Sunny Enclave S.O.,160055,PO,Non Delivery,S.A.S Nagar,PUNJAB,30.7585,76.66
+12,5363,Punjab Circle,Punjab West Region,Kapurthala Division,KHALWARA BO,144402,BO,Delivery,KAPURTHALA,PUNJAB,31.234523,75.802894
+13,39393,Punjab Circle,Punjab West Region,Kapurthala Division,Mullewal Khera BO,144702,BO,Delivery,JALANDHAR,PUNJAB,31.06579,75.24819
+15,39395,Punjab Circle,Punjab West Region,Kapurthala Division,Bath Kalan BO,144044,BO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+17,39397,Punjab Circle,Punjab West Region,Kapurthala Division,Khokhewal BO,144036,BO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+18,39681,Punjab Circle,Punjab West Region,Kapurthala Division,Birk BO,144632,BO,Delivery,JALANDHAR,PUNJAB,31.1963969,75.7713809
+19,39682,Punjab Circle,Punjab West Region,Kapurthala Division,Nagra BO,144037,BO,Delivery,JALANDHAR,PUNJAB,31.0847815,75.6909651
+21,39684,Punjab Circle,Punjab West Region,Kapurthala Division,Tahli BO,144043,BO,Delivery,JALANDHAR,PUNJAB,31.217805,75.769395
+22,39685,Punjab Circle,Punjab West Region,Kapurthala Division,Dalla BO,144626,BO,Delivery,KAPURTHALA,PUNJAB,31.19524,75.1263
+27,39758,Punjab Circle,Punjab West Region,Kapurthala Division,Dhapai BO,144603,BO,Delivery,KAPURTHALA,PUNJAB,31.358627,75.4435491
+29,39760,Punjab Circle,Punjab West Region,Kapurthala Division,Bhadas BO,144622,BO,Delivery,KAPURTHALA,PUNJAB,31.5871513,75.5067
+31,39762,Punjab Circle,Punjab West Region,Kapurthala Division,Bhabiana BO,144407,BO,Delivery,KAPURTHALA,PUNJAB,31.3299521,75.807712
+33,39764,Punjab Circle,Punjab West Region,Kapurthala Division,Bhagana BO,144405,BO,Delivery,KAPURTHALA,PUNJAB,31.3635942,75.851816
+38,39769,Punjab Circle,Punjab West Region,Kapurthala Division,Chiheru BO,144411,BO,Delivery,KAPURTHALA,PUNJAB,31.2396,75.71091
+42,40243,Punjab Circle,Punjab West Region,Kapurthala Division,Sharakpur BO,144042,BO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+43,40244,Punjab Circle,Punjab West Region,Kapurthala Division,Kular BO,144625,BO,Delivery,JALANDHAR,PUNJAB,31.374925,75.384211
+45,40246,Punjab Circle,Punjab West Region,Kapurthala Division,Rorkee BO,144311,BO,Delivery,JALANDHAR,PUNJAB,31.32055,75.2584
+46,40247,Punjab Circle,Punjab West Region,Kapurthala Division,Chak Vendal BO,144033,BO,Delivery,JALANDHAR,PUNJAB,31.238182,76.488107
+48,41211,Punjab Circle,Punjab West Region,Kapurthala Division,Kang Arryan BO,144035,BO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+50,41213,Punjab Circle,Punjab West Region,Kapurthala Division,Daduwal BO,144032,BO,Delivery,JALANDHAR,PUNJAB,31.2069036,75.6723245
+51,41214,Punjab Circle,Punjab West Region,Kapurthala Division,Dhanipind BO,144633,BO,Delivery,JALANDHAR,PUNJAB,31.1778861,75.6576652
+56,41542,Punjab Circle,Punjab West Region,Kapurthala Division,Bhulana BO,144620,BO,Delivery,KAPURTHALA,PUNJAB,31.374927,75.384209
+60,41546,Punjab Circle,Punjab West Region,Kapurthala Division,Fattu Dhinga BO,144606,BO,Delivery,KAPURTHALA,PUNJAB,31.38345,75.32705
+62,41548,Punjab Circle,Punjab West Region,Kapurthala Division,Saidpur BO,144628,BO,Delivery,KAPURTHALA,PUNJAB,31.374927,75.384209
+71,41734,Punjab Circle,Punjab West Region,Kapurthala Division,Bohani BO,144403,BO,Delivery,KAPURTHALA,PUNJAB,31.217806,75.769394
+81,41755,Punjab Circle,Punjab West Region,Kapurthala Division,Bhardwajian BO,144034,BO,Delivery,JALANDHAR,PUNJAB,31.217811,75.769389
+106,43424,Punjab Circle,Punjab West Region,Amritsar Division,Bhoewali BO,143102,BO,Delivery,AMRITSAR,PUNJAB,31.84,74.76
+108,43461,Punjab Circle,Punjab West Region,Bhatinda Division,Dikh BO,151103,BO,Delivery,BATHINDA,PUNJAB,30.3181,75.2357
+111,43464,Punjab Circle,Punjab West Region,Bhatinda Division,Dial Pura Bhai Ka BO,151108,BO,Delivery,BATHINDA,PUNJAB,30.1491,75.185
+113,43466,Punjab Circle,Punjab West Region,Bhatinda Division,Gehri Butter BO,151401,BO,Delivery,BATHINDA,PUNJAB,30.0961,74.8778
+117,44185,Punjab Circle,DivReportingCircle,Sangrur Division,Kheri Chehlan BO,148025,BO,Delivery,SANGRUR,PUNJAB,30.434262,75.683353
+119,44187,Punjab Circle,DivReportingCircle,Sangrur Division,Bakshiwala BO,148028,BO,Delivery,SANGRUR,PUNJAB,30.52937,76.543766
+121,44378,Punjab Circle,DivReportingCircle,Sangrur Division,Wazid Ke Khurd BO,148109,BO,Delivery,BARNALA,PUNJAB,30.460326,75.57317
+122,44379,Punjab Circle,DivReportingCircle,Sangrur Division,Pakhoke BO,148103,BO,Delivery,BARNALA,PUNJAB,31.338607,75.000533
+123,44380,Punjab Circle,DivReportingCircle,Sangrur Division,Chhiniwal Khurd BO,148100,BO,Delivery,BARNALA,PUNJAB,30.579556,75.447582
+124,44381,Punjab Circle,DivReportingCircle,Sangrur Division,Dhilwan BO,148108,BO,Delivery,BARNALA,PUNJAB,31.509998,75.335388
+175,46462,Punjab Circle,Punjab West Region,Amritsar Division,Dhanoakalan BO,143108,BO,Delivery,AMRITSAR,PUNJAB,31.64,74.56
+179,46466,Punjab Circle,Punjab West Region,Amritsar Division,Bhalaipur Purban BO,143202,BO,Delivery,AMRITSAR,PUNJAB,31.61,75.22
+182,46469,Punjab Circle,Punjab West Region,Amritsar Division,Jamalpur BO,143203,BO,Delivery,AMRITSAR,PUNJAB,31.63,75.34
+190,46477,Punjab Circle,Punjab West Region,Amritsar Division,Bhlaipur Dorgan BO,143201,BO,Delivery,AMRITSAR,PUNJAB,31.53825,75.2566
+192,46479,Punjab Circle,Punjab West Region,Amritsar Division,Makowal BO,143103,BO,Delivery,AMRITSAR,PUNJAB,31.9,74.89
+203,47011,Punjab Circle,DivReportingCircle,Sangrur Division,Sangala BO,148023,BO,Delivery,MALERKOTLA,PUNJAB,15.383333,35.116667
+204,47012,Punjab Circle,DivReportingCircle,Sangrur Division,Kup Kalan BO,148019,BO,Delivery,MALERKOTLA,PUNJAB,30.613364,75.875181
+205,47013,Punjab Circle,DivReportingCircle,Sangrur Division,Badbar BO,148106,BO,Delivery,BARNALA,PUNJAB,12.4545,12.57575
+213,47021,Punjab Circle,DivReportingCircle,Sangrur Division,Nihaluwal BO,148104,BO,Delivery,BARNALA,PUNJAB,31.147183,75.293849
+214,47022,Punjab Circle,DivReportingCircle,Sangrur Division,Jhuner BO,148020,BO,Delivery,MALERKOTLA,PUNJAB,30.587701,75.770579
+243,47468,Punjab Circle,Punjab West Region,Hoshiarpur Division,Chinkoa BO,144526,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.45,75.96
+246,47471,Punjab Circle,Punjab West Region,Hoshiarpur Division,Makhoopur BO,144525,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.56,75.89
+248,47473,Punjab Circle,Punjab West Region,Jalandhar Division,Phambra BO,144417,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.0684,76.0024
+249,47474,Punjab Circle,Punjab West Region,Jalandhar Division,Dhahan BO,144505,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1917,75.9462
+260,48288,Punjab Circle,DivReportingCircle,Sangrur Division,Gujran BO,148035,BO,Delivery,SANGRUR,PUNJAB,30.124178,75.970998
+264,48292,Punjab Circle,DivReportingCircle,Sangrur Division,Kheri BO,148002,BO,Delivery,SANGRUR,PUNJAB,28.16514,80.632692
+266,48294,Punjab Circle,DivReportingCircle,Sangrur Division,Hassanpur BO,148034,BO,Delivery,SANGRUR,PUNJAB,27.965739,77.498875
+269,48297,Punjab Circle,DivReportingCircle,Sangrur Division,Haryau BO,148031,BO,Delivery,SANGRUR,PUNJAB,12.5456,85.323213
+272,48307,Punjab Circle,DivReportingCircle,Sangrur Division,Chural Kalan BO,148033,BO,Delivery,SANGRUR,PUNJAB,29.822765,75.815626
+276,48311,Punjab Circle,DivReportingCircle,Sangrur Division,Banarsi BO,148027,BO,Delivery,SANGRUR,PUNJAB,29.824088,76.079893
+279,48504,Punjab Circle,Punjab West Region,Jalandhar Division,Bhan Mazara BO,144504,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1739,75.8813
+281,48506,Punjab Circle,Punjab West Region,Jalandhar Division,Sarhal Qazian BO,144502,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1561,75.913
+282,48507,Punjab Circle,Punjab West Region,Jalandhar Division,Bharta Khurd BO,144518,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.0572,76.0793
+284,48509,Punjab Circle,Punjab West Region,Jalandhar Division,Dhangerpur BO,144515,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.0675,76.2035
+288,48513,Punjab Circle,Punjab West Region,Jalandhar Division,Bhin BO,144512,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1634,76.435
+289,48514,Punjab Circle,Punjab West Region,Jalandhar Division,Mandhali BO,144501,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1942,75.8491
+291,48516,Punjab Circle,Punjab West Region,Jalandhar Division,Gobindpur BO,144510,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.2144,76.0232
+294,48624,Punjab Circle,Punjab West Region,Jalandhar Division,Sauna BO,144516,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.104,76.1682
+295,48625,Punjab Circle,Punjab West Region,Jalandhar Division,Massani BO,144416,BO,Delivery,JALANDHAR,PUNJAB,31.0828,75.8874
+296,48626,Punjab Circle,Punjab West Region,Jalandhar Division,Dhaleta BO,144418,BO,Delivery,JALANDHAR,PUNJAB,31.118,75.7884
+302,48632,Punjab Circle,Punjab West Region,Jalandhar Division,Mothada Khurd BO,144409,BO,Delivery,JALANDHAR,PUNJAB,31.0936,75.7782
+304,48634,Punjab Circle,Punjab West Region,Jalandhar Division,Khusropur BO,144024,BO,Delivery,JALANDHAR,PUNJAB,31.261,75.663
+309,48786,Punjab Circle,Punjab West Region,Hoshiarpur Division,Begumpur BO,144524,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,30.94,75.56
+320,48797,Punjab Circle,Punjab West Region,Jalandhar Division,Khanpur BO,144509,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1544,75.9623
+346,49115,Punjab Circle,DivReportingCircle,Sangrur Division,Rure Ke Kalan BO,148107,BO,Delivery,BARNALA,PUNJAB,30.259524,75.439829
+371,49914,Punjab Circle,Punjab West Region,Jalandhar Division,Gunachaur BO,144511,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.9755,76.0184
+378,49921,Punjab Circle,Punjab West Region,Jalandhar Division,Bhaura BO,144506,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1869,75.9922
+379,49922,Punjab Circle,Punjab West Region,Hoshiarpur Division,Gondpur BO,146105,BO,Delivery,HOSHIARPUR,PUNJAB,31.74,75.52
+380,49923,Punjab Circle,Punjab West Region,Hoshiarpur Division,Possi BO,144531,BO,Delivery,HOSHIARPUR,PUNJAB,31.47,75.98
+381,49924,Punjab Circle,Punjab West Region,Hoshiarpur Division,Hakumatpur BO,146107,BO,Delivery,HOSHIARPUR,PUNJAB,30.29,74.98
+382,49925,Punjab Circle,Punjab West Region,Hoshiarpur Division,Fatehgarh Niara BO,146022,BO,Delivery,HOSHIARPUR,PUNJAB,31.54,74.23
+383,49926,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dhakkowal BO,146111,BO,Delivery,HOSHIARPUR,PUNJAB,31.24,75.11
+386,49929,Punjab Circle,Punjab West Region,Hoshiarpur Division,Mona Klan BO,146112,BO,Delivery,HOSHIARPUR,PUNJAB,31.42,75.68
+395,49938,Punjab Circle,Punjab West Region,Hoshiarpur Division,Badesron BO,144528,BO,Delivery,HOSHIARPUR,PUNJAB,30.24,75.58
+398,49941,Punjab Circle,Punjab West Region,Hoshiarpur Division,Saila Kalan BO,144529,BO,Delivery,HOSHIARPUR,PUNJAB,31.45,75.45
+399,49942,Punjab Circle,Punjab West Region,Hoshiarpur Division,Chak Singha BO,144532,BO,Delivery,HOSHIARPUR,PUNJAB,31.45,75.65
+401,49944,Punjab Circle,Punjab West Region,Hoshiarpur Division,Badla Mahi BO,144105,BO,Delivery,HOSHIARPUR,PUNJAB,30.98,75.84
+405,49948,Punjab Circle,Punjab West Region,Hoshiarpur Division,Jandiala BO,146109,BO,Delivery,HOSHIARPUR,PUNJAB,31.24,75.96
+442,50363,Punjab Circle,Punjab West Region,Jalandhar Division,Udhopur BO,144020,BO,Delivery,JALANDHAR,PUNJAB,31.2415,75.6266
+455,50376,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bassi Gulam Hussain BO,146021,BO,Delivery,HOSHIARPUR,PUNJAB,31.25,75.41
+462,50383,Punjab Circle,Punjab West Region,Hoshiarpur Division,Ganeshpur Bharta BO,146106,BO,Delivery,HOSHIARPUR,PUNJAB,31.47,75.52
+492,50885,Punjab Circle,Punjab West Region,Hoshiarpur Division,Kharar Achharwal BO,146108,BO,Delivery,HOSHIARPUR,PUNJAB,31.66,74.96
+525,51638,Punjab Circle,Punjab West Region,Jalandhar Division,Bharsingpura BO,144419,BO,Delivery,JALANDHAR,PUNJAB,31.0531,75.8628
+559,54113,Punjab Circle,Punjab West Region,Amritsar Division,Valtoha BO,143416,BO,Delivery,Tarn Taran,PUNJAB,31.18,74.63
+561,54115,Punjab Circle,Punjab West Region,Amritsar Division,Chahal BO,143414,BO,Delivery,Tarn Taran,PUNJAB,31.5,74.65
+565,54119,Punjab Circle,Punjab West Region,Amritsar Division,Bakipur BO,143302,BO,Delivery,Tarn Taran,PUNJAB,31.43,74.85
+572,54126,Punjab Circle,Punjab West Region,Amritsar Division,Jalalabad BO,143118,BO,Delivery,Tarn Taran,PUNJAB,31.45,75.19
+574,54134,Punjab Circle,Punjab West Region,Amritsar Division,Sohawa BO,143410,BO,Delivery,Tarn Taran,PUNJAB,31.29,74.97
+578,54273,Punjab Circle,Punjab West Region,Kapurthala Division,Gumtali BO,144039,BO,Delivery,JALANDHAR,PUNJAB,31.125807,75.473293
+590,54837,Punjab Circle,Punjab West Region,Kapurthala Division,Raipur Pir Bux Wala,144819,BO,Delivery,KAPURTHALA,PUNJAB,31.5726041,75.4000182
+591,55307,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Kishangarh BO,141412,BO,Delivery,LUDHIANA,PUNJAB,26.587034,74.856397
+592,55371,Punjab Circle,Punjab West Region,Kapurthala Division,Sohal Jagir BO,144703,BO,Delivery,JALANDHAR,PUNJAB,31.8362,75.6474
+597,55376,Punjab Circle,Punjab West Region,Kapurthala Division,Khusropur BO,144806,BO,Delivery,JALANDHAR,PUNJAB,31.2676983,75.6353474
+598,55628,Punjab Circle,DivReportingCircle,Chandigarh Division,Dappar BO,140506,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+599,55629,Punjab Circle,DivReportingCircle,Chandigarh Division,Kuranwala BO,140507,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+600,55630,Punjab Circle,DivReportingCircle,Chandigarh Division,Tassimbli BO,140501,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+606,57705,Punjab Circle,Punjab West Region,Faridkot Division,Bir Raoke BO,142037,BO,Delivery,MOGA,PUNJAB,30.68715,75.3063
+607,57706,Punjab Circle,Punjab West Region,Faridkot Division,Alamwala Kalan BO,142038,BO,Delivery,MOGA,PUNJAB,30.2677025,74.421771
+612,57743,Punjab Circle,Punjab West Region,Faridkot Division,Bhagike BO,142039,BO,Delivery,MOGA,PUNJAB,30.8164673,75.1717023
+613,57744,Punjab Circle,Punjab West Region,Faridkot Division,Bahona BO,142011,BO,Delivery,MOGA,PUNJAB,30.804156,75.1765055
+614,57745,Punjab Circle,Punjab West Region,Faridkot Division,Ajitwal BO,142053,BO,Delivery,MOGA,PUNJAB,30.8306915,75.0885144
+617,57748,Punjab Circle,Punjab West Region,Faridkot Division,Dadahur BO,142048,BO,Delivery,MOGA,PUNJAB,30.8164673,75.1717023
+636,58506,Punjab Circle,Punjab West Region,Faridkot Division,Phulewala BO,142056,BO,Delivery,MOGA,PUNJAB,30.6441411,75.1530698
+648,58657,Punjab Circle,Punjab West Region,Faridkot Division,Mallianwala BO,142040,BO,Delivery,MOGA,PUNJAB,30.7435745,75.2030129
+657,58911,Punjab Circle,DivReportingCircle,Chandigarh Division,Bhankarpur BO,140201,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+658,59016,Punjab Circle,Punjab West Region,Kapurthala Division,Miani Bhagopurian BO,144631,BO,Delivery,KAPURTHALA,PUNJAB,31.61683,75.43249
+707,73760,Punjab Circle,DivReportingCircle,Patiala Division,Nandpur Kesho BO,147004,BO,Delivery,PATIALA,PUNJAB,30.45,76.43
+709,73977,Punjab Circle,DivReportingCircle,Patiala Division,Badshahpur BO,147102,BO,Delivery,PATIALA,PUNJAB,30.0,76.17
+712,73980,Punjab Circle,DivReportingCircle,Patiala Division,Daunkalan BO,147021,BO,Delivery,PATIALA,PUNJAB,30.39,76.47
+714,73982,Punjab Circle,DivReportingCircle,Patiala Division,Babarpur BO,147201,BO,Delivery,PATIALA,PUNJAB,28.62,77.23
+719,74307,Punjab Circle,Punjab West Region,Faridkot Division,Aspal BO,151210,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.1891819,74.505307
+725,74313,Punjab Circle,Punjab West Region,Faridkot Division,Dabwali Dhab BO,152115,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.7444,74.67895
+729,74317,Punjab Circle,Punjab West Region,Faridkot Division,Chhattiana BO,152031,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.3305771,74.668028
+733,74321,Punjab Circle,Punjab West Region,Faridkot Division,Ghagga BO,152101,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.198441,74.659029
+742,74361,Punjab Circle,DivReportingCircle,Patiala Division,Jasso Majra BO,147202,BO,Delivery,PATIALA,PUNJAB,30.52,76.16
+748,74455,Punjab Circle,Punjab West Region,Amritsar Division,Tharu BO,143402,BO,Delivery,Tarn Taran,PUNJAB,31.48,74.88
+753,74585,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Borra BO,141127,BO,Delivery,LUDHIANA,PUNJAB,18.274682,83.039158
+754,74999,Punjab Circle,Punjab West Region,Faridkot Division,Dod BO,151205,BO,Delivery,FARIDKOT,PUNJAB,30.4508321,74.8828724
+755,75000,Punjab Circle,Punjab West Region,Faridkot Division,Golewala BO,151213,BO,Delivery,FARIDKOT,PUNJAB,30.7991826,74.6941486
+758,75003,Punjab Circle,Punjab West Region,Faridkot Division,Chandbhan BO,151202,BO,Delivery,FARIDKOT,PUNJAB,30.3845849,74.8990028
+759,75004,Punjab Circle,Punjab West Region,Faridkot Division,Hari Nau BO,151204,BO,Delivery,FARIDKOT,PUNJAB,30.54205,74.78335
+762,75799,Punjab Circle,Punjab West Region,Amritsar Division,Muchal BO,143111,BO,Delivery,AMRITSAR,PUNJAB,31.563228,75.15
+764,75801,Punjab Circle,Punjab West Region,Amritsar Division,Chatiwind BO,143022,BO,Delivery,AMRITSAR,PUNJAB,31.58,74.91
+765,75802,Punjab Circle,Punjab West Region,Amritsar Division,Budha Theh BO,143601,BO,Delivery,AMRITSAR,PUNJAB,31.82,75
+770,76281,Punjab Circle,Punjab West Region,Kapurthala Division,Mustafapur BO,144801,BO,Delivery,JALANDHAR,PUNJAB,31.37493,75.384206
+771,76282,Punjab Circle,Punjab West Region,Kapurthala Division,Manak BO,144629,BO,Delivery,JALANDHAR,PUNJAB,31.8386422,75.6593711
+788,76344,Punjab Circle,Punjab West Region,Faridkot Division,Assa Buttar BO,152025,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.47753,74.73175
+795,76535,Punjab Circle,DivReportingCircle,Patiala Division,Kalyan BO,147005,BO,Delivery,PATIALA,PUNJAB,30.35,76.3
+802,76556,Punjab Circle,DivReportingCircle,Patiala Division,Bharpurgarh BO,147203,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.57,76.12
+807,76609,Punjab Circle,DivReportingCircle,Sangrur Division,Dhatogal BO,148022,BO,Delivery,SANGRUR,PUNJAB,31.12787,76.071825
+808,76610,Punjab Circle,DivReportingCircle,Sangrur Division,Bhullerheri BO,148017,BO,Delivery,SANGRUR,PUNJAB,30.346639,75.961061
+809,76611,Punjab Circle,DivReportingCircle,Sangrur Division,Alloarakh BO,148026,BO,Delivery,SANGRUR,PUNJAB,23.030176,72.584808
+815,76617,Punjab Circle,DivReportingCircle,Sangrur Division,Shahpur kalan BO,148029,BO,Delivery,SANGRUR,PUNJAB,30.137231,75.677536
+816,76618,Punjab Circle,DivReportingCircle,Sangrur Division,Ganduan BO,148030,BO,Delivery,SANGRUR,PUNJAB,30.001998,75.752993
+818,76620,Punjab Circle,DivReportingCircle,Sangrur Division,Kumbherwal BO,148024,BO,Delivery,SANGRUR,PUNJAB,30.418287,75.780753
+821,76747,Punjab Circle,Punjab West Region,Bhatinda Division,Jhanda Kalan BO,151507,BO,Delivery,MANSA,PUNJAB,29.6393,75.2231
+824,76750,Punjab Circle,Punjab West Region,Bhatinda Division,Teona Pujarian BO,151302,BO,Delivery,BATHINDA,PUNJAB,29.9281,75.0772
+825,76751,Punjab Circle,Punjab West Region,Bhatinda Division,Kulrian BO,151501,BO,Delivery,MANSA,PUNJAB,29.8187,75.6837
+827,76753,Punjab Circle,Punjab West Region,Bhatinda Division,Behman Diwana BO,151005,BO,Delivery,BATHINDA,PUNJAB,30.2206,74.8522
+830,76756,Punjab Circle,Punjab West Region,Bhatinda Division,Hamirgarh BO,151206,BO,Delivery,BATHINDA,PUNJAB,25.1882,74.6269
+831,76757,Punjab Circle,Punjab West Region,Bhatinda Division,Burj Hari BO,151508,BO,Delivery,MANSA,PUNJAB,30.0861,75.3475
+833,76759,Punjab Circle,Punjab West Region,Bhatinda Division,Makha Chelan BO,151504,BO,Delivery,MANSA,PUNJAB,30.06203,75.55568
+835,76761,Punjab Circle,Punjab West Region,Bhatinda Division,Jhanduke BO,151101,BO,Delivery,BATHINDA,PUNJAB,29.7514,75.344
+839,76953,Punjab Circle,Punjab West Region,Kapurthala Division,Malupur BO,144701,BO,Delivery,JALANDHAR,PUNJAB,31.125807,75.473293
+840,76954,Punjab Circle,Punjab West Region,Kapurthala Division,Adarman BO,144041,BO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+845,76959,Punjab Circle,Punjab West Region,Kapurthala Division,Bhullar BO,144040,BO,Delivery,JALANDHAR,PUNJAB,31.1449,75.4852
+851,77052,Punjab Circle,DivReportingCircle,Patiala Division,Dakaunda BO,147104,BO,Delivery,PATIALA,PUNJAB,30.49,76.31
+852,77053,Punjab Circle,DivReportingCircle,Patiala Division,Lataur BO,140406,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.55,76.4
+853,77075,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Junewal BO,141126,BO,Delivery,LUDHIANA,PUNJAB,30.89107,75.87729
+855,77124,Punjab Circle,DivReportingCircle,Patiala Division,Rampur Landiali BO,140408,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.63,76.54
+862,77239,Punjab Circle,Punjab West Region,Bhatinda Division,Dhalewan BO,151502,BO,Delivery,MANSA,PUNJAB,30.027,75.5757
+865,77242,Punjab Circle,Punjab West Region,Bhatinda Division,Ablu BO,151201,BO,Delivery,BATHINDA,PUNJAB,30.3369,74.7878
+870,77247,Punjab Circle,Punjab West Region,Bhatinda Division,Adamke BO,151506,BO,Delivery,MANSA,PUNJAB,29.7124,75.3245
+873,77250,Punjab Circle,Punjab West Region,Bhatinda Division,Ralla BO,151510,BO,Delivery,MANSA,PUNJAB,30.1196,75.4333
+886,77530,Punjab Circle,Punjab West Region,Faridkot Division,Bambhia Bhai Ka BO,151208,BO,Delivery,MOGA,PUNJAB,30.131256,74.7095492
+914,78094,Punjab Circle,Punjab West Region,Kapurthala Division,Chakoki BO,144624,BO,Delivery,KAPURTHALA,PUNJAB,31.5423307,75.5058251
+930,78156,Punjab Circle,Punjab West Region,Amritsar Division,Babowal BO,143119,BO,Delivery,AMRITSAR,PUNJAB,31.71,75.11
+937,78427,Punjab Circle,DivReportingCircle,Sangrur Division,Nainewal BO,148102,BO,Delivery,BARNALA,PUNJAB,30.427371,75.326707
+953,78757,Punjab Circle,DivReportingCircle,Sangrur Division,Dangarh BO,148105,BO,Delivery,BARNALA,PUNJAB,28.167387,78.207737
+971,79309,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Saharan Majra BO,141117,BO,Delivery,LUDHIANA,PUNJAB,30.661316,75.901319
+975,79320,Punjab Circle,Punjab West Region,Hoshiarpur Division,KHANAURA BO,144404,BO,Delivery,HOSHIARPUR,PUNJAB,31.81726,75.657304
+988,79389,Punjab Circle,Punjab West Region,Bhatinda Division,Dalelwala BO,151503,BO,Delivery,MANSA,PUNJAB,29.8295,75.4148
+996,79397,Punjab Circle,Punjab West Region,Bhatinda Division,Lehra Bega BO,151111,BO,Delivery,BATHINDA,PUNJAB,30.247,75.1633
+998,79399,Punjab Circle,Punjab West Region,Bhatinda Division,Sevian BO,151002,BO,Delivery,BATHINDA,PUNJAB,30.2607,74.8997
+1005,79443,Punjab Circle,DivReportingCircle,Sangrur Division,Kandhargarh BO,148018,BO,Delivery,SANGRUR,PUNJAB,30.371303,75.982607
+1038,80044,Punjab Circle,DivReportingCircle,Sangrur Division,Rohira BO,148021,BO,Delivery,MALERKOTLA,PUNJAB,30.635831,75.849038
+1041,80047,Punjab Circle,DivReportingCircle,Sangrur Division,Raisar BO,148101,BO,Delivery,BARNALA,PUNJAB,28.051003,73.481364
+1081,81211,Punjab Circle,Punjab West Region,Bhatinda Division,Ghanda Bana BO,151106,BO,Delivery,BATHINDA,PUNJAB,30.4159,75.2726
+1117,82353,Punjab Circle,Punjab West Region,Hoshiarpur Division,Jahan Khelan BO,146110,BO,Delivery,HOSHIARPUR,PUNJAB,31.24,75.23
+1120,82356,Punjab Circle,Punjab West Region,Hoshiarpur Division,Behbalpur BO,144519,BO,Delivery,HOSHIARPUR,PUNJAB,31.65,75.58
+1127,82619,Punjab Circle,Punjab West Region,Bhatinda Division,Akkanwali BO,151505,BO,Delivery,MANSA,PUNJAB,29.983309,75.383291
+1179,84184,Punjab Circle,Punjab West Region,Kapurthala Division,Uggi BO,144623,BO,Delivery,JALANDHAR,PUNJAB,31.374924,75.384212
+1183,84191,Punjab Circle,Punjab West Region,Amritsar Division,Lopoke BO,143109,BO,Delivery,AMRITSAR,PUNJAB,31.72,74.63
+1199,85375,Punjab Circle,Punjab West Region,Amritsar Division,Chhidan BO,143107,BO,Delivery,AMRITSAR,PUNJAB,31.6758,74.87
+1203,85379,Punjab Circle,Punjab West Region,Amritsar Division,Ibban Kalan BO,143009,BO,Delivery,AMRITSAR,PUNJAB,31.58,74.84
+1205,85381,Punjab Circle,Punjab West Region,Amritsar Division,Nangal Dial Singh BO,143113,BO,Delivery,AMRITSAR,PUNJAB,31.62,75.01
+1217,85773,Punjab Circle,Punjab West Region,Amritsar Division,Aima Kalan BO,143301,BO,Delivery,Tarn Taran,PUNJAB,31.52,74.8
+1221,85777,Punjab Circle,Punjab West Region,Amritsar Division,Chamba Kalan BO,143408,BO,Delivery,Tarn Taran,PUNJAB,31.26,75
+1222,85778,Punjab Circle,Punjab West Region,Amritsar Division,Pheloke BO,143411,BO,Delivery,Tarn Taran,PUNJAB,31.3783031,74.9997698
+1226,85782,Punjab Circle,Punjab West Region,Amritsar Division,Johal Dhai Wala BO,143407,BO,Delivery,Tarn Taran,PUNJAB,31.13,75.84
+1227,85783,Punjab Circle,Punjab West Region,Amritsar Division,Pringri BO,143412,BO,Delivery,Tarn Taran,PUNJAB,31.23,74.89
+1229,85785,Punjab Circle,Punjab West Region,Amritsar Division,Dayal Pura BO,143304,BO,Delivery,Tarn Taran,PUNJAB,31.32,74.76
+1232,85788,Punjab Circle,Punjab West Region,Amritsar Division,Tangra BO,143149,BO,Delivery,AMRITSAR,PUNJAB,31.56,75.12
+1234,85790,Punjab Circle,Punjab West Region,Amritsar Division,Abdal BO,143502,BO,Delivery,AMRITSAR,PUNJAB,31.74,75.08
+1249,85888,Punjab Circle,Punjab West Region,Amritsar Division,Pahuwind BO,143303,BO,Delivery,Tarn Taran,PUNJAB,31.34,74.7
+1255,85894,Punjab Circle,Punjab West Region,Amritsar Division,Dinewal BO,143406,BO,Delivery,Tarn Taran,PUNJAB,31.49,75.04
+1258,86180,Punjab Circle,Punjab West Region,Amritsar Division,Dall BO,143305,BO,Delivery,Tarn Taran,PUNJAB,31.35,74.57
+1259,86181,Punjab Circle,Punjab West Region,Amritsar Division,Algon Khurd BO,143419,BO,Delivery,Tarn Taran,PUNJAB,31.28,74.65
+1260,86182,Punjab Circle,Punjab West Region,Amritsar Division,Bhathal Bhai BO,143409,BO,Delivery,Tarn Taran,PUNJAB,31.33,74.98
+1265,86192,Punjab Circle,Punjab West Region,Amritsar Division,Bal Sarai BO,143204,BO,Delivery,AMRITSAR,PUNJAB,31.56,75.32
+1279,86212,Punjab Circle,Punjab West Region,Amritsar Division,Dhunda BO,143422,BO,Delivery,Tarn Taran,PUNJAB,31.34,75.13
+1291,86236,Punjab Circle,Punjab West Region,Amritsar Division,Chananke BO,143114,BO,Delivery,AMRITSAR,PUNJAB,31.69,75.2
+1294,86239,Punjab Circle,Punjab West Region,Amritsar Division,Bagga BO,143101,BO,Delivery,AMRITSAR,PUNJAB,31.6339843,74.8722592
+1297,86242,Punjab Circle,Punjab West Region,Amritsar Division,Dujowal BO,143603,BO,Delivery,AMRITSAR,PUNJAB,31.93,74.83
+1299,86244,Punjab Circle,Punjab West Region,Amritsar Division,Chakkare Khan BO,143112,BO,Delivery,AMRITSAR,PUNJAB,31.48,75.13
+1304,86249,Punjab Circle,Punjab West Region,Amritsar Division,Akalgarh Dhupaian BO,143116,BO,Delivery,AMRITSAR,PUNJAB,31.64,75.06
+1308,86288,Punjab Circle,Punjab West Region,Amritsar Division,Vallah BO,143501,BO,Delivery,AMRITSAR,PUNJAB,31.63,74.94
+1309,86289,Punjab Circle,Punjab West Region,Amritsar Division,Ekal Gudda BO,143115,BO,Delivery,AMRITSAR,PUNJAB,31.51,75.07
+1310,86290,Punjab Circle,Punjab West Region,Amritsar Division,Jaura BO,143415,BO,Delivery,Tarn Taran,PUNJAB,31.36,74.84
+1330,86310,Punjab Circle,Punjab West Region,Amritsar Division,Nagoke BO,143117,BO,Delivery,Tarn Taran,PUNJAB,31.45,75.13
+1339,86320,Punjab Circle,Punjab West Region,Amritsar Division,Dhardeo BO,143205,BO,Delivery,AMRITSAR,PUNJAB,31.63,75.25
+1341,86322,Punjab Circle,Punjab West Region,Amritsar Division,Dist Jail BO,143008,BO,Delivery,AMRITSAR,PUNJAB,31.71,75.04
+1361,86368,Punjab Circle,Punjab West Region,Amritsar Division,Manawala Khurd BO,143413,BO,Delivery,AMRITSAR,PUNJAB,31.46,73.13
+1397,88962,Punjab Circle,Punjab West Region,Bhatinda Division,Gehri Bara Singh BO,151509,BO,Delivery,BATHINDA,PUNJAB,30.1269,75.1618
+1400,88965,Punjab Circle,Punjab West Region,Bhatinda Division,Poohli BO,151102,BO,Delivery,BATHINDA,PUNJAB,30.2947,75.0823
+1401,88966,Punjab Circle,Punjab West Region,Bhatinda Division,Dhapali BO,151104,BO,Delivery,BATHINDA,PUNJAB,30.3181,75.2357
+1402,88967,Punjab Circle,Punjab West Region,Bhatinda Division,Laleana BO,151301,BO,Delivery,BATHINDA,PUNJAB,29.9951,75.0217
+1411,89384,Punjab Circle,Punjab West Region,Bhatinda Division,Bhaini Kani BO,151105,BO,Delivery,BATHINDA,PUNJAB,30.2661,75.2534
+1428,90228,Punjab Circle,Punjab West Region,Ferozpur Division,Karma BO,152023,BO,Delivery,FIROZEPUR,PUNJAB,30.918105,74.616137
+1430,90230,Punjab Circle,Punjab West Region,Ferozpur Division,Sanehar BO,152028,BO,Delivery,FIROZEPUR,PUNJAB,30.968536,74.991058
+1431,90231,Punjab Circle,Punjab West Region,Ferozpur Division,Chak Kherewala BO,152033,BO,Delivery,FAZILKA,PUNJAB,30.97996,74.6816
+1433,90233,Punjab Circle,Punjab West Region,Ferozpur Division,Giddranwali BO,152132,BO,Delivery,FAZILKA,PUNJAB,30.2336032,74.2787037
+1435,90235,Punjab Circle,Punjab West Region,Ferozpur Division,Gill BO,142060,BO,Delivery,FIROZEPUR,PUNJAB,30.918104,74.616138
+1436,90272,Punjab Circle,Punjab West Region,Ferozpur Division,Churiwala Dhanna BO,152122,BO,Delivery,FAZILKA,PUNJAB,30.2039719,74.1104938
+1438,90274,Punjab Circle,Punjab West Region,Ferozpur Division,Dastul Sahib BO,152004,BO,Delivery,FIROZEPUR,PUNJAB,29.97117,74.57624
+1440,90276,Punjab Circle,Punjab West Region,Ferozpur Division,Bharana BO,152005,BO,Delivery,FIROZEPUR,PUNJAB,30.968536,74.991058
+1441,90277,Punjab Circle,Punjab West Region,Ferozpur Division,Pandori Khatrian BO,142050,BO,Delivery,FIROZEPUR,PUNJAB,30.85535,74.94099
+1444,90280,Punjab Circle,Punjab West Region,Ferozpur Division,Dhandian BO,142047,BO,Delivery,FIROZEPUR,PUNJAB,30.968537,74.991057
+1448,90284,Punjab Circle,Punjab West Region,Ferozpur Division,Dutaran Wala BO,152118,BO,Delivery,FAZILKA,PUNJAB,30.15515,74.2034
+1453,90421,Punjab Circle,Punjab West Region,Gurdaspur Division,Dadiala Natt BO,143507,BO,Delivery,GURDASPUR,PUNJAB,31.6612295,75.6477087
+1455,90423,Punjab Circle,Punjab West Region,Gurdaspur Division,Akarpura BO,143511,BO,Delivery,GURDASPUR,PUNJAB,31.9,75.11
+1461,90429,Punjab Circle,Punjab West Region,Gurdaspur Division,Dharamkot Randhawa BO,143604,BO,Delivery,GURDASPUR,PUNJAB,32.01,74.98
+1464,90432,Punjab Circle,Punjab West Region,Gurdaspur Division,Raimal BO,143605,BO,Delivery,GURDASPUR,PUNJAB,31.93,75.05
+1465,90512,Punjab Circle,Punjab West Region,Jalandhar Division,Nagar BO,144410,BO,Delivery,JALANDHAR,PUNJAB,31.0346,75.8321
+1466,90513,Punjab Circle,Punjab West Region,Jalandhar Division,Pandori Nijjran BO,144102,BO,Delivery,JALANDHAR,PUNJAB,31.3875,75.2456
+1471,90723,Punjab Circle,Punjab West Region,Jalandhar Division,Kishangarh BO,144301,BO,Delivery,JALANDHAR,PUNJAB,31.4345,75.6499
+1474,90726,Punjab Circle,Punjab West Region,Jalandhar Division,Mand BO,144021,BO,Delivery,JALANDHAR,PUNJAB,31.2136,75.5924
+1475,90727,Punjab Circle,Punjab West Region,Jalandhar Division,Rajpur BO,144201,BO,Delivery,JALANDHAR,PUNJAB,31.327,75.5769
+1477,90729,Punjab Circle,Punjab West Region,Jalandhar Division,Dhogri BO,144025,BO,Delivery,JALANDHAR,PUNJAB,31.3853,75.6385
+1565,91322,Punjab Circle,Punjab West Region,Kapurthala Division,Bhandal Bet BO,144804,BO,Delivery,KAPURTHALA,PUNJAB,31.51712,75.34815
+1569,91326,Punjab Circle,Punjab West Region,Jalandhar Division,Khambra BO,144026,BO,Delivery,JALANDHAR,PUNJAB,31.3534,75.6171
+1573,91330,Punjab Circle,Punjab West Region,Jalandhar Division,Talhan BO,144101,BO,Delivery,JALANDHAR,PUNJAB,31.3404,75.6717
+1574,91331,Punjab Circle,Punjab West Region,Kapurthala Division,Kang Saboo BO,144630,BO,Delivery,JALANDHAR,PUNJAB,31.11101,75.7386
+1578,91335,Punjab Circle,Punjab West Region,Kapurthala Division,Kahlwan BO,144805,BO,Delivery,JALANDHAR,PUNJAB,31.3260222,75.5761759
+1603,91769,Punjab Circle,Punjab West Region,Jalandhar Division,Dhina BO,144022,BO,Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+1606,91772,Punjab Circle,Punjab West Region,Jalandhar Division,Kotla BO,144106,BO,Delivery,JALANDHAR,PUNJAB,31.4736,75.7578
+1610,91776,Punjab Circle,Punjab West Region,Jalandhar Division,Dhaliwal BO,144002,BO,Delivery,JALANDHAR,PUNJAB,31.37426,75.512
+1612,91778,Punjab Circle,Punjab West Region,Jalandhar Division,Dolike Sunderpur BO,144302,BO,Delivery,JALANDHAR,PUNJAB,30.9987,75.1651
+1628,91794,Punjab Circle,Punjab West Region,Jalandhar Division,Karnana BO,144513,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1343,76.046
+1630,91827,Punjab Circle,Punjab West Region,Jalandhar Division,Allachaur BO,144514,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.0567,76.1557
+1633,91859,Punjab Circle,Punjab West Region,Jalandhar Division,Bharoli BO,144503,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.2222,75.8846
+1636,91934,Punjab Circle,Punjab West Region,Jalandhar Division,Kahlon BO,144517,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.300299,75.630428
+1639,91937,Punjab Circle,DivReportingCircle,Patiala Division,Gulhar BO,147105,BO,Delivery,PATIALA,PUNJAB,29.86,76.07
+1643,91941,Punjab Circle,DivReportingCircle,Patiala Division,Behmna BO,147101,BO,Delivery,PATIALA,PUNJAB,30.17,76.12
+1644,91942,Punjab Circle,Punjab West Region,Jalandhar Division,Hansron BO,144421,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1005,76.0379
+1648,91972,Punjab Circle,Punjab West Region,Kapurthala Division,Akbarpur BO,144621,BO,Delivery,KAPURTHALA,PUNJAB,31.5423317,75.5058241
+1649,91973,Punjab Circle,Punjab West Region,Kapurthala Division,Muddowal BO,144802,BO,Delivery,KAPURTHALA,PUNJAB,31.5423317,75.5058241
+1655,91980,Punjab Circle,Punjab West Region,Jalandhar Division,Randhawa Masanda BO,144004,BO,Delivery,JALANDHAR,PUNJAB,31.3215,75.5925
+1660,91985,Punjab Circle,Punjab West Region,Jalandhar Division,Kandola BO,144103,BO,Delivery,JALANDHAR,PUNJAB,31.4236,75.7569
+1674,91999,Punjab Circle,Punjab West Region,Jalandhar Division,Daroli Khurd BO,144104,BO,Delivery,JALANDHAR,PUNJAB,31.4031,75.756
+1679,92316,Punjab Circle,Punjab West Region,Jalandhar Division,Jallowal BO,144303,BO,Delivery,JALANDHAR,PUNJAB,31.4328,75.6508
+1683,92320,Punjab Circle,Punjab West Region,Jalandhar Division,Khurla BO,144003,BO,Non Delivery,JALANDHAR,PUNJAB,31.3384,75.3531
+1685,92322,Punjab Circle,Punjab West Region,Jalandhar Division,Malpur BO,144508,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.300299,75.630428
+1694,92968,Punjab Circle,DivReportingCircle,Patiala Division,Bazidpur BO,140412,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.72,76.42
+1699,92973,Punjab Circle,DivReportingCircle,Patiala Division,Barwali Khurd BO,141411,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.78,76.27
+1703,92977,Punjab Circle,DivReportingCircle,Patiala Division,Pharaur BO,141801,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.8,76.31
+1704,92978,Punjab Circle,DivReportingCircle,Patiala Division,Shahpur BO,147301,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.66,76.23
+1705,92979,Punjab Circle,DivReportingCircle,Patiala Division,Bhamarsibuland BO,140405,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.56,76.31
+1707,92981,Punjab Circle,DivReportingCircle,Patiala Division,Amrala BO,140802,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.82,76.38
+1708,92982,Punjab Circle,Punjab West Region,Hoshiarpur Division,Nangal Khunga BO,144212,BO,Delivery,HOSHIARPUR,PUNJAB,31.24,76.22
+1709,92983,Punjab Circle,Punjab West Region,Hoshiarpur Division,Argowal BO,144207,BO,Delivery,HOSHIARPUR,PUNJAB,31.42,75.89
+1712,92986,Punjab Circle,Punjab West Region,Hoshiarpur Division,Saggran BO,144221,BO,Delivery,HOSHIARPUR,PUNJAB,31.02,75.45
+1715,92989,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bariana BO,144208,BO,Delivery,HOSHIARPUR,PUNJAB,31.84,75.84
+1717,92991,Punjab Circle,Punjab West Region,Hoshiarpur Division,Chowki Patiari BO,144209,BO,Delivery,HOSHIARPUR,PUNJAB,30.23,74.12
+1720,92994,Punjab Circle,Punjab West Region,Hoshiarpur Division,Behlakhan BO,144223,BO,Delivery,HOSHIARPUR,PUNJAB,31.46,74.13
+1724,92998,Punjab Circle,Punjab West Region,Hoshiarpur Division,Ghorewaha BO,146116,BO,Delivery,HOSHIARPUR,PUNJAB,31.12,75.13
+1725,92999,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dhugga Kalan BO,144305,BO,Delivery,HOSHIARPUR,PUNJAB,31.62,74.13
+1728,93002,Punjab Circle,Punjab West Region,Hoshiarpur Division,Jalalpur BO,144202,BO,Delivery,HOSHIARPUR,PUNJAB,31.46,75.36
+1729,93003,Punjab Circle,Punjab West Region,Hoshiarpur Division,Hoshiarpur Kalota BO,144211,BO,Delivery,HOSHIARPUR,PUNJAB,31.5143178,75.911483
+1732,93006,Punjab Circle,Punjab West Region,Hoshiarpur Division,Baja Chak BO,144214,BO,Delivery,HOSHIARPUR,PUNJAB,30.84,75.12
+1735,93009,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bassi Jalal Khan BO,144204,BO,Delivery,HOSHIARPUR,PUNJAB,30.56,74.12
+1737,93011,Punjab Circle,Punjab West Region,Hoshiarpur Division,SHERGARH BO,146023,BO,Delivery,HOSHIARPUR,PUNJAB,31.24,75.91
+1742,93050,Punjab Circle,DivReportingCircle,Patiala Division,Bhagrana BO,140602,BO,Delivery,FATEHGARH SAHIB,PUNJAB,30.6,76.57
+1751,93059,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bhagowal BO,146113,BO,Delivery,HOSHIARPUR,PUNJAB,31.515963,75.91
+1755,93063,Punjab Circle,Punjab West Region,Hoshiarpur Division,Fatehpur BO,144222,BO,Delivery,HOSHIARPUR,PUNJAB,31.45,75.45
+1758,93066,Punjab Circle,Punjab West Region,Hoshiarpur Division,Kukanet BO,144206,BO,Delivery,HOSHIARPUR,PUNJAB,31.56,75.46
+1768,93076,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bombeli BO,146101,BO,Delivery,HOSHIARPUR,PUNJAB,31.06,75.84
+1771,93079,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bachhohi BO,146102,BO,Delivery,HOSHIARPUR,PUNJAB,31.02,75.96
+1776,93118,Punjab Circle,Punjab West Region,Hoshiarpur Division,Garhi Mansowal BO,144523,BO,Delivery,HOSHIARPUR,PUNJAB,31.42,75.84
+1778,93120,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dhada Kalan BO,144520,BO,Delivery,HOSHIARPUR,PUNJAB,31.58,75.84
+1781,93123,Punjab Circle,Punjab West Region,Hoshiarpur Division,Lalwan BO,144530,BO,Delivery,HOSHIARPUR,PUNJAB,31.08,75.84
+1785,93128,Punjab Circle,Punjab West Region,Jalandhar Division,Chak Dana BO,144422,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.0536,75.9645
+1792,93135,Punjab Circle,DivReportingCircle,Patiala Division,Allowal BO,147006,BO,Delivery,PATIALA,PUNJAB,30.43,76.28
+1793,93136,Punjab Circle,DivReportingCircle,Patiala Division,Ajrawar BO,140701,BO,Delivery,PATIALA,PUNJAB,30.37,76.54
+1797,93140,Punjab Circle,DivReportingCircle,Patiala Division,Nanhera BO,140417,BO,Delivery,PATIALA,PUNJAB,30.46,76.7
+1802,93145,Punjab Circle,Punjab West Region,Hoshiarpur Division,Garhi Qanogaon BO,144521,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.05,75.41
+1804,93147,Punjab Circle,Punjab West Region,Hoshiarpur Division,Nighi BO,144522,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.25,75.81
+1822,93395,Punjab Circle,Punjab West Region,Hoshiarpur Division,Mundian Jattan BO,146114,BO,Delivery,HOSHIARPUR,PUNJAB,31.45,75.42
+1823,93396,Punjab Circle,Punjab West Region,Hoshiarpur Division,Begumpur Jandiala BO,146115,BO,Delivery,HOSHIARPUR,PUNJAB,31.25,74.89
+1832,93405,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bhilowal BO,146104,BO,Delivery,HOSHIARPUR,PUNJAB,31.12,75.84
+1838,93411,Punjab Circle,Punjab West Region,Hoshiarpur Division,Chohal BO,146024,BO,Delivery,HOSHIARPUR,PUNJAB,31.84,74.13
+1839,93848,Punjab Circle,DivReportingCircle,Chandigarh Division,Rel B.O,144533,BO,Non Delivery,Shahid Bhagat Singh Nagar,PUNJAB,,
+1840,94305,Punjab Circle,Punjab West Region,Gurdaspur Division,Bharial BO,143525,BO,Delivery,GURDASPUR,PUNJAB,32.2,75.33
+1841,94306,Punjab Circle,Punjab West Region,Gurdaspur Division,Hayat Nagar BO,143520,BO,Delivery,GURDASPUR,PUNJAB,32.04,75.36
+1842,94591,Punjab Circle,Punjab West Region,Gurdaspur Division,Khojepur BO,143530,BO,Delivery,GURDASPUR,PUNJAB,32.07,75.45
+1845,94678,Punjab Circle,Punjab West Region,Hoshiarpur Division,Degham BO,144527,BO,Delivery,HOSHIARPUR,PUNJAB,31.25,75.41
+1853,94692,Punjab Circle,DivReportingCircle,Patiala Division,Ramgarh BO,140601,BO,Delivery,PATIALA,PUNJAB,30.64,76.88
+1854,94693,Punjab Circle,DivReportingCircle,Patiala Division,Lachru Kalan BO,140702,BO,Delivery,PATIALA,PUNJAB,30.15,76.63
+1858,94697,Punjab Circle,Punjab West Region,Hoshiarpur Division,Amroh BO,144224,BO,Delivery,HOSHIARPUR,PUNJAB,28.9,78.46
+1861,94700,Punjab Circle,Punjab West Region,Hoshiarpur Division,Manhota BO,144213,BO,Delivery,HOSHIARPUR,PUNJAB,31.8,75.81
+1903,94888,Punjab Circle,Punjab West Region,Jalandhar Division,Lallian BO,144028,BO,Delivery,JALANDHAR,PUNJAB,31.3524,75.6171
+1910,95037,Punjab Circle,Punjab West Region,Jalandhar Division,Kalra BO,144030,BO,Non Delivery,JALANDHAR,PUNJAB,31.4087,75.8055
+1937,95608,Punjab Circle,Punjab West Region,Faridkot Division,Kapure BO,142054,BO,Delivery,MOGA,PUNJAB,30.8127248,75.1664797
+1949,95719,Punjab Circle,Punjab West Region,Faridkot Division,Dina BO,142046,BO,Delivery,MOGA,PUNJAB,30.5186108,75.2347756
+1961,96258,Punjab Circle,DivReportingCircle,Chandigarh Division,Bassian Brahman BO,140413,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.3715277
+1964,96261,Punjab Circle,DivReportingCircle,Chandigarh Division,Daun Majra BO,140301,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.3715277
+1968,96265,Punjab Circle,DivReportingCircle,Chandigarh Division,Kubaheri BO,140109,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.3715277
+1969,96266,Punjab Circle,DivReportingCircle,Chandigarh Division,Mundhon Kalan BO,140103,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.3715277
+1971,96268,Punjab Circle,DivReportingCircle,Chandigarh Division,Geega Majra BO,140307,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.3715277
+1980,96553,Punjab Circle,DivReportingCircle,Chandigarh Division,Agampur BO,140118,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+1981,96554,Punjab Circle,DivReportingCircle,Chandigarh Division,Hafizabad BO,140111,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+1983,96556,Punjab Circle,Punjab West Region,Gurdaspur Division,Ghiala BO,145101,BO,Delivery,PATHANKOT,PUNJAB,32.16,75.65
+1986,96559,Punjab Circle,Punjab West Region,Gurdaspur Division,Badhani BO,145001,BO,Delivery,PATHANKOT,PUNJAB,32.33,75.76
+1990,96563,Punjab Circle,Punjab West Region,Gurdaspur Division,Panjore BO,145023,BO,Delivery,PATHANKOT,PUNJAB,32.29,75.56
+1995,96579,Punjab Circle,DivReportingCircle,Chandigarh Division,Daroli BO,140133,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+1998,96582,Punjab Circle,DivReportingCircle,Chandigarh Division,Katlaur BO,140112,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2001,96585,Punjab Circle,DivReportingCircle,Chandigarh Division,Swamipur BO,140126,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2002,96586,Punjab Circle,DivReportingCircle,Chandigarh Division,Thaluh BO,140123,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2003,96587,Punjab Circle,DivReportingCircle,Chandigarh Division,Lodhi Majra BO,140113,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2004,96623,Punjab Circle,DivReportingCircle,Chandigarh Division,Massewal BO,140115,BO,Delivery,RUPNAGAR,PUNJAB,30.3876944,76.5883888
+2005,96624,Punjab Circle,DivReportingCircle,Chandigarh Division,Jhinjari BO,140116,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2006,96625,Punjab Circle,DivReportingCircle,Chandigarh Division,Barsalpur BO,140102,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2009,96628,Punjab Circle,DivReportingCircle,Chandigarh Division,Pathreri Jattan BO,140108,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+2013,96632,Punjab Circle,DivReportingCircle,Chandigarh Division,Nangal Talwara BO,140124,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+2014,96633,Punjab Circle,DivReportingCircle,Chandigarh Division,Katta Sabour B.O,140128,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2036,96717,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dihana BO,144406,BO,Delivery,HOSHIARPUR,PUNJAB,30.45,75.42
+2041,96722,Punjab Circle,Punjab West Region,Hoshiarpur Division,Jangliana BO,146103,BO,Delivery,HOSHIARPUR,PUNJAB,31.21,75.45
+2065,96848,Punjab Circle,DivReportingCircle,Patiala Division,Bhankher BO,147103,BO,Delivery,PATIALA,PUNJAB,30.27,76.52
+2071,96881,Punjab Circle,Punjab West Region,Kapurthala Division,Kudowal BO,144803,BO,Delivery,JALANDHAR,PUNJAB,31.4927899,75.4620901
+2073,96975,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Binjal BO,142032,BO,Delivery,LUDHIANA,PUNJAB,30.687615,75.532037
+2076,96978,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Nanaksar BO,142036,BO,Delivery,LUDHIANA,PUNJAB,30.801516,75.421362
+2077,96979,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Kailey BO,141107,BO,Delivery,LUDHIANA,PUNJAB,30.709309,75.674628
+2080,96982,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Lakha BO,142031,BO,Delivery,LUDHIANA,PUNJAB,30.640218,75.449039
+2081,96983,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Dhaipai BO,142029,BO,Delivery,LUDHIANA,PUNJAB,30.779544,75.724065
+2084,96986,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Sujapur BO,142030,BO,Delivery,LUDHIANA,PUNJAB,25.069081,88.137679
+2086,96988,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Lalton Khurd BO,142022,BO,Delivery,LUDHIANA,PUNJAB,30.853737,75.758952
+2089,96991,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Malakpur BO,142027,BO,Delivery,LUDHIANA,PUNJAB,30.928116,75.739329
+2090,96992,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Pamali BO,142021,BO,Delivery,LUDHIANA,PUNJAB,30.824324,75.747324
+2091,96993,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Raqba BO,141422,BO,Delivery,LUDHIANA,PUNJAB,30.813234,75.648448
+2092,96994,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Jangpura BO,141101,BO,Delivery,LUDHIANA,PUNJAB,28.582103,77.248525
+2096,96998,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bhanohar BO,141102,BO,Delivery,LUDHIANA,PUNJAB,30.84853,75.712434
+2110,97161,Punjab Circle,DivReportingCircle,Chandigarh Division,Chhatt BO,140603,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+2121,97250,Punjab Circle,DivReportingCircle,Chandigarh Division,Behrampur BO,140125,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+2123,97252,Punjab Circle,Punjab West Region,Gurdaspur Division,Jhakholari BO,145025,BO,Delivery,PATHANKOT,PUNJAB,32.26,75.59
+2127,97256,Punjab Circle,Punjab West Region,Gurdaspur Division,Baknaur BO,143534,BO,Delivery,PATHANKOT,PUNJAB,32.2,75.44
+2142,97289,Punjab Circle,DivReportingCircle,Chandigarh Division,Siswan BO,140110,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+2145,97292,Punjab Circle,DivReportingCircle,Chandigarh Division,Mauli Baidwan BO,140308,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+2149,97423,Punjab Circle,DivReportingCircle,Ludhiana City Division,Karyana Kalan BO,141015,BO,Delivery,LUDHIANA,PUNJAB,30.96,75.92
+2150,97424,Punjab Circle,DivReportingCircle,Ludhiana City Division,Mattewara BO,141007,BO,Delivery,LUDHIANA,PUNJAB,30.98,75.98
+2153,97492,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Chakkar BO,142035,BO,Delivery,LUDHIANA,PUNJAB,26.712226,86.037663
+2195,97766,Punjab Circle,Punjab West Region,Hoshiarpur Division,Rajwal BO,144216,BO,Delivery,HOSHIARPUR,PUNJAB,31.15,75.15
+2211,97851,Punjab Circle,DivReportingCircle,Chandigarh Division,Bhallan B.O,140127,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2216,97856,Punjab Circle,DivReportingCircle,Chandigarh Division,Makari BO,140117,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2218,97858,Punjab Circle,DivReportingCircle,Chandigarh Division,Jhandian BO,140119,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+2225,97865,Punjab Circle,Punjab West Region,Gurdaspur Division,Datial BO,145026,BO,Delivery,PATHANKOT,PUNJAB,32.24,75.41
+2230,98047,Punjab Circle,Punjab West Region,Gurdaspur Division,Shahpur Kandi BO,145029,BO,Delivery,PATHANKOT,PUNJAB,32.39,75.69
+2239,98255,Punjab Circle,Punjab West Region,Faridkot Division,Kishan Garh BO,142045,BO,Delivery,MOGA,PUNJAB,30.83555,75.04759
+2240,98256,Punjab Circle,Punjab West Region,Faridkot Division,Rauli BO,142003,BO,Delivery,MOGA,PUNJAB,30.8392181,75.2180675
+2241,98257,Punjab Circle,Punjab West Region,Faridkot Division,Saidoke BO,142055,BO,Delivery,MOGA,PUNJAB,30.526565,75.291646
+2244,98463,Punjab Circle,Punjab West Region,Hoshiarpur Division,Bariowal BO,144306,BO,Delivery,HOSHIARPUR,PUNJAB,31.95,75.65
+2248,98467,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dhoot Kalan BO,144210,BO,Delivery,HOSHIARPUR,PUNJAB,31.67,75.78
+2276,98949,Punjab Circle,Punjab West Region,Gurdaspur Division,Babri BO,143529,BO,Delivery,GURDASPUR,PUNJAB,32.01,75.37
+2282,99057,Punjab Circle,Punjab West Region,Ferozpur Division,Bhagoo BO,152116,BO,Delivery,FAZILKA,PUNJAB,30.03,74.23
+2285,99060,Punjab Circle,Punjab West Region,Ferozpur Division,Jandwala Bhimeshah BO,152124,BO,Delivery,FAZILKA,PUNJAB,30.2052103,74.5331275
+2302,99142,Punjab Circle,DivReportingCircle,Chandigarh Division,Dharamgarh BO,140306,BO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+2304,99144,Punjab Circle,DivReportingCircle,Chandigarh Division,Parol BO,140901,BO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,76.69841
+2312,99195,Punjab Circle,DivReportingCircle,Chandigarh Division,Bharatgarh Canal Colony BO,140114,BO,Delivery,RUPNAGAR,PUNJAB,30.9666111,76.3715277
+2315,99215,Punjab Circle,Punjab West Region,Faridkot Division,Jita Singh Wala BO,142057,BO,Delivery,MOGA,PUNJAB,30.57719,75.07864
+2322,99407,Punjab Circle,DivReportingCircle,Chandigarh Division,Bhamnara BO,140101,BO,Delivery,RUPNAGAR,PUNJAB,30.692051,76.69841
+2333,99462,Punjab Circle,Punjab West Region,Ferozpur Division,Aminwala BO,142042,BO,Delivery,MOGA,PUNJAB,30.934187,75.225006
+2338,99565,Punjab Circle,Punjab West Region,Ferozpur Division,Guddar Dhandi BO,152022,BO,Delivery,FIROZEPUR,PUNJAB,30.6863,74.38541
+2341,99568,Punjab Circle,Punjab West Region,Ferozpur Division,Azamwala BO,152121,BO,Delivery,FAZILKA,PUNJAB,30.6874513,74.3172287
+2344,99571,Punjab Circle,Punjab West Region,Ferozpur Division,Koil Khera BO,152128,BO,Delivery,FAZILKA,PUNJAB,30.1417,74.01125
+2348,99575,Punjab Circle,Punjab West Region,Ferozpur Division,Behak Gujjaran BO,142044,BO,Delivery,FIROZEPUR,PUNJAB,31.09945,74.93417
+2350,99577,Punjab Circle,Punjab West Region,Ferozpur Division,Rukne Wala BO,152021,BO,Delivery,FIROZEPUR,PUNJAB,30.82655,74.5765
+2353,99898,Punjab Circle,Punjab West Region,Ferozpur Division,Indergarh BO,142058,BO,Delivery,MOGA,PUNJAB,30.9075131,75.3104495
+2354,99899,Punjab Circle,Punjab West Region,Ferozpur Division,Datewala BO,142043,BO,Delivery,MOGA,PUNJAB,30.8164683,75.1717013
+2365,99977,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bhainidarera BO,141108,BO,Delivery,LUDHIANA,PUNJAB,30.664546,75.676173
+2368,99980,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bhaini Baringa BO,141109,BO,Delivery,LUDHIANA,PUNJAB,30.642549,75.643282
+2372,99984,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Gidderwindi BO,142033,BO,Delivery,LUDHIANA,PUNJAB,30.930017,75.419896
+2376,99988,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Sidhwan Kalan BO,142024,BO,Delivery,LUDHIANA,PUNJAB,30.828837,75.53786
+2377,99989,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bhundri BO,142025,BO,Delivery,LUDHIANA,PUNJAB,30.942665,75.575702
+2379,99991,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Chhourian BO,141121,BO,Delivery,LUDHIANA,PUNJAB,46.188722,6.044457
+2388,100246,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Rupalon BO,141421,BO,Delivery,LUDHIANA,PUNJAB,30.784777,76.109525
+2389,100247,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Paddi BO,141206,BO,Delivery,LUDHIANA,PUNJAB,30.792141,75.932534
+2390,100248,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Dhandran BO,141116,BO,Delivery,LUDHIANA,PUNJAB,30.835284,75.833059
+2392,100250,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Rohno Kalan BO,141414,BO,Delivery,LUDHIANA,PUNJAB,30.65419,76.124402
+2393,100251,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Gaddowal BO,141112,BO,Delivery,LUDHIANA,PUNJAB,30.924561,76.030487
+2394,100252,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Babarpur BO,141119,BO,Delivery,LUDHIANA,PUNJAB,28.687609,77.282161
+2396,100254,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Barmalipur BO,141416,BO,Delivery,LUDHIANA,PUNJAB,30.753299,76.07255
+2412,100280,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Akalgarh BO,141104,BO,Delivery,LUDHIANA,PUNJAB,30.758898,75.652812
+2420,100569,Punjab Circle,Punjab West Region,Ferozpur Division,Chanan Khera BO,152117,BO,Delivery,FAZILKA,PUNJAB,30.1576,74.33157
+2423,100572,Punjab Circle,Punjab West Region,Ferozpur Division,Khai Pheme Ki BO,152003,BO,Delivery,FIROZEPUR,PUNJAB,30.99155,74.6133
+2424,100573,Punjab Circle,Punjab West Region,Ferozpur Division,Chak Banwala BO,152123,BO,Delivery,FAZILKA,PUNJAB,30.37395,74.03525
+2425,100574,Punjab Circle,Punjab West Region,Ferozpur Division,Kirianwali BO,152020,BO,Delivery,FAZILKA,PUNJAB,30.403731,74.025533
+2427,100576,Punjab Circle,Punjab West Region,Ferozpur Division,Mahalam BO,152002,BO,Delivery,FIROZEPUR,PUNJAB,74.59755,31.00523
+2430,100579,Punjab Circle,Punjab West Region,Ferozpur Division,Bhangali Kalan BO,142052,BO,Delivery,FIROZEPUR,PUNJAB,30.7456,75.30656
+2437,100757,Punjab Circle,Punjab West Region,Ferozpur Division,Bahamni Wala BO,152024,BO,Delivery,FAZILKA,PUNJAB,30.56734,74.24597
+2448,100854,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Gurreh BO,142023,BO,Delivery,LUDHIANA,PUNJAB,30.833127,75.575702
+2449,100877,Punjab Circle,Punjab West Region,Gurdaspur Division,Khaira BO,143602,BO,Delivery,GURDASPUR,PUNJAB,31.86,74.96
+2452,100880,Punjab Circle,Punjab West Region,Gurdaspur Division,Bolewal BO,143514,BO,Delivery,GURDASPUR,PUNJAB,31.64,75.32
+2453,100881,Punjab Circle,Punjab West Region,Gurdaspur Division,Batala Sugar Mills BO,143506,BO,Delivery,GURDASPUR,PUNJAB,31.7345,75.2818
+2458,101164,Punjab Circle,Punjab West Region,Gurdaspur Division,Bhole Ke BO,143513,BO,Delivery,GURDASPUR,PUNJAB,31.90225,75.05125
+2462,101168,Punjab Circle,Punjab West Region,Gurdaspur Division,Khokhar Faujjian BO,143518,BO,Delivery,GURDASPUR,PUNJAB,31.88,75.27
+2472,101179,Punjab Circle,Punjab West Region,Gurdaspur Division,Barila Kalan BO,143512,BO,Delivery,GURDASPUR,PUNJAB,32.05,75.14
+2477,101184,Punjab Circle,Punjab West Region,Gurdaspur Division,Dhapai BO,143516,BO,Delivery,GURDASPUR,PUNJAB,31.78,75.4
+2479,101186,Punjab Circle,Punjab West Region,Gurdaspur Division,Cheema Khudi BO,143515,BO,Delivery,GURDASPUR,PUNJAB,31.7212,75.4359
+2483,101190,Punjab Circle,Punjab West Region,Gurdaspur Division,Ghorewah BO,143517,BO,Delivery,GURDASPUR,PUNJAB,31.83,75.47
+2487,101194,Punjab Circle,Punjab West Region,Gurdaspur Division,Galhri BO,143526,BO,Delivery,GURDASPUR,PUNJAB,32.033858,75.407121
+2490,101197,Punjab Circle,Punjab West Region,Gurdaspur Division,Aulakh Kalan BO,143527,BO,Delivery,GURDASPUR,PUNJAB,31.79,75.5
+2493,101346,Punjab Circle,Punjab West Region,Gurdaspur Division,Chak Sharif BO,143528,BO,Delivery,GURDASPUR,PUNJAB,31.92,75.5
+2501,101416,Punjab Circle,Punjab West Region,Gurdaspur Division,Lehroon BO,145022,BO,Delivery,PATHANKOT,PUNJAB,32.2643445,75.6421051
+2516,101452,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,New Rajguru Nagar BO,142028,BO,Delivery,LUDHIANA,PUNJAB,30.877874,75.780026
+2519,101455,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Butaheri BO,141118,BO,Delivery,LUDHIANA,PUNJAB,30.681861,75.82877
+2524,101460,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Ghangas BO,141419,BO,Delivery,LUDHIANA,PUNJAB,30.732413,75.93326
+2525,101461,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Chhapar BO,141204,BO,Delivery,LUDHIANA,PUNJAB,27.818593,74.437907
+2549,101611,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Kalal Majra BO,141417,BO,Delivery,LUDHIANA,PUNJAB,30.566094,75.552416
+2553,101615,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Sahibana BO,141123,BO,Delivery,LUDHIANA,PUNJAB,30.897719,75.971724
+2559,101624,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Ballowal BO,141202,BO,Delivery,LUDHIANA,PUNJAB,30.770893,75.747324
+2574,101763,Punjab Circle,Punjab West Region,Ferozpur Division,Datta BO,142041,BO,Delivery,MOGA,PUNJAB,30.92545,75.32885
+2585,101833,Punjab Circle,Punjab West Region,Faridkot Division,Budh Singh Wala BO,142002,BO,Delivery,MOGA,PUNJAB,30.70515,75.03696
+2588,102058,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bharthala Randhawa BO,141415,BO,Delivery,LUDHIANA,PUNJAB,30.569922,76.078307
+2591,102061,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Kotala BO,141125,BO,Delivery,LUDHIANA,PUNJAB,13.592359,79.281759
+2594,102064,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Uppal BO,141113,BO,Delivery,LUDHIANA,PUNJAB,17.398377,78.558265
+2597,102067,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bahrampur BO,141205,BO,Delivery,LUDHIANA,PUNJAB,26.74159,83.280703
+2599,102069,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Punjgarain BO,141115,BO,Delivery,LUDHIANA,PUNJAB,31.15889,75.565515
+2601,102071,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Mehma Singh Wala BO,141203,BO,Delivery,LUDHIANA,PUNJAB,30.749327,75.787292
+2604,102074,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Begowal BO,141418,BO,Delivery,LUDHIANA,PUNJAB,31.61009,75.520829
+2610,102080,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Nandpur BO,141120,BO,Delivery,LUDHIANA,PUNJAB,30.700901,76.50402
+2653,102923,Punjab Circle,Punjab West Region,Amritsar Division,Balbawa BO,143606,BO,Delivery,AMRITSAR,PUNJAB,31.84,74.94
+2654,102924,Punjab Circle,Punjab West Region,Amritsar Division,Kasail BO,143105,BO,Delivery,AMRITSAR,PUNJAB,31.54,74.75
+2695,103118,Punjab Circle,Punjab West Region,Jalandhar Division,Chahal Kalan BO,144507,BO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.1186,75.9558
+2749,103227,Punjab Circle,Punjab West Region,Amritsar Division,Dhade BO,143504,BO,Delivery,AMRITSAR,PUNJAB,31.71625,75.09
+2765,103331,Punjab Circle,Punjab West Region,Faridkot Division,Panjawa BO,152113,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.060956,74.612824
+2771,103368,Punjab Circle,Punjab West Region,Faridkot Division,Chappianwali BO,152107,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.1891849,74.505304
+2774,103371,Punjab Circle,Punjab West Region,Faridkot Division,Lakhewali BO,152026,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.468448,74.51747
+2777,103374,Punjab Circle,Punjab West Region,Faridkot Division,Bhaloor BO,151207,BO,Delivery,MOGA,PUNJAB,30.666707,74.749993
+2778,103375,Punjab Circle,Punjab West Region,Faridkot Division,Chak Duhe Wala BO,152032,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.36775,74.46007
+2780,103377,Punjab Circle,Punjab West Region,Faridkot Division,Dhaula Kingra BO,152114,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.0665,74.47692
+2782,103766,Punjab Circle,Punjab West Region,Faridkot Division,Momara BO,151212,BO,Delivery,FARIDKOT,PUNJAB,30.14212,75.18981
+2787,104673,Punjab Circle,Punjab West Region,Jalandhar Division,Sheikhupur BO,144029,BO,Delivery,JALANDHAR,PUNJAB,31.0855,75.9167
+2795,104816,Punjab Circle,Punjab West Region,Faridkot Division,Dhimanwali BO,151209,BO,Delivery,FARIDKOT,PUNJAB,30.581829,74.832054
+2805,105273,Punjab Circle,Punjab West Region,Faridkot Division,Bring Khera BO,151211,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.14212,75.18981
+2809,105277,Punjab Circle,Punjab West Region,Faridkot Division,Badian BO,152112,BO,Delivery,SRI MUKTSAR SAHIB,PUNJAB,30.1891829,74.505306
+2821,106055,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Bhamipura BO,142034,BO,Delivery,LUDHIANA,PUNJAB,30.900974,75.8572668
+2827,106061,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Rattowal BO,141105,BO,Delivery,LUDHIANA,PUNJAB,30.745553,75.671719
+2841,106172,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Sihaura BO,141413,BO,Delivery,LUDHIANA,PUNJAB,30.655883,76.005824
+2850,106181,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Sangowal BO,141122,BO,Delivery,LUDHIANA,PUNJAB,30.99833,75.652084
+2860,106518,Punjab Circle,Punjab West Region,Gurdaspur Division,Bharath BO,143532,BO,Delivery,GURDASPUR,PUNJAB,31.16,75.41
+2862,106520,Punjab Circle,Punjab West Region,Gurdaspur Division,Kot Santokh Rai BO,143519,BO,Delivery,GURDASPUR,PUNJAB,31.97,75.29
+2865,106523,Punjab Circle,Punjab West Region,Gurdaspur Division,Kalichpure BO,143531,BO,Delivery,GURDASPUR,PUNJAB,32.08,75.52
+2870,106528,Punjab Circle,Punjab West Region,Gurdaspur Division,Bianpure BO,143533,BO,Delivery,GURDASPUR,PUNJAB,32.09,75.57
+2919,107626,Punjab Circle,Punjab West Region,Gurdaspur Division,Janial BO,145027,BO,Delivery,PATHANKOT,PUNJAB,32.32,75.41
+2922,107629,Punjab Circle,Punjab West Region,Gurdaspur Division,Tharial BO,145024,BO,Delivery,PATHANKOT,PUNJAB,32.35,75.61
+2961,108851,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Khandur BO,141103,BO,Delivery,LUDHIANA,PUNJAB,30.798904,75.721158
+3104,120684,Punjab Circle,Punjab West Region,Faridkot Division,Moga HO,142001,HO,Delivery,MOGA,PUNJAB,30.81337,75.175565
+3105,121108,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Jagraon HO,142026,HO,Delivery,LUDHIANA,PUNJAB,30.7936111,75.4743333
+3106,121109,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Khanna HO,141401,HO,Delivery,LUDHIANA,PUNJAB,30.7029167,76.2244167
+3107,121408,Punjab Circle,Punjab West Region,Ferozpur Division,Ferozepur HO,152001,HO,Delivery,FIROZEPUR,PUNJAB,30.927546,74.610497
+3108,121779,Punjab Circle,DivReportingCircle,Ludhiana City Division,Ludhiana HO,141001,HO,Delivery,LUDHIANA,PUNJAB,30.9026389,75.83775
+3109,122617,Punjab Circle,Punjab West Region,Bhatinda Division,Bathinda HO,151001,HO,Delivery,BATHINDA,PUNJAB,30.2007123,74.9460617
+3110,122619,Punjab Circle,Punjab West Region,Gurdaspur Division,Batala HO,143505,HO,Delivery,GURDASPUR,PUNJAB,31.8075,75.19558
+3111,123315,Punjab Circle,Punjab West Region,Amritsar Division,Tarn Taran HO,143401,HO,Delivery,Tarn Taran,PUNJAB,31.457758,74.918607
+3112,123903,Punjab Circle,DivReportingCircle,Chandigarh Division,Ropar HO,140001,HO,Delivery,RUPNAGAR,PUNJAB,30.9666111,73.53025
+3113,123923,Punjab Circle,Punjab West Region,Gurdaspur Division,Gurdaspur HO,143521,HO,Delivery,GURDASPUR,PUNJAB,32.043274,75.39888
+3114,124549,Punjab Circle,DivReportingCircle,Patiala Division,Patiala HO,147001,HO,Delivery,PATIALA,PUNJAB,30.3345278,76.3858889
+3115,124553,Punjab Circle,DivReportingCircle,Patiala Division,Rajpura HO,140401,HO,Delivery,PATIALA,PUNJAB,30.4859722,76.5924722
+3116,125817,Punjab Circle,Punjab West Region,Amritsar Division,Amritsar GPO,143001,HO,Delivery,AMRITSAR,PUNJAB,31.638561,74.882557
+3117,126297,Punjab Circle,DivReportingCircle,Sangrur Division,Sangrur HO,148001,HO,Delivery,SANGRUR,PUNJAB,30.2455278,75.8443056
+3118,127015,Punjab Circle,Punjab West Region,Faridkot Division,Faridkot HO,151203,HO,Delivery,FARIDKOT,PUNJAB,30.666212,74.740482
+3121,134357,Punjab Circle,Punjab West Region,Jalandhar Division,Dakoha SO,144023,PO,Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+3122,134358,Punjab Circle,Punjab West Region,Jalandhar Division,Dhanowali SO,144010,PO,Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+3130,135444,Punjab Circle,Punjab West Region,Jalandhar Division,Lassara SO,144415,PO,Delivery,Shahid Bhagat Singh Nagar,PUNJAB,31.300299,75.630428
+3133,135805,Punjab Circle,DivReportingCircle,Chandigarh Division,Chandigarh Sector 60 SO,160059,PO,Non Delivery,S.A.S Nagar,PUNJAB,30.73455,76.78615
+3134,135806,Punjab Circle,DivReportingCircle,Chandigarh Division,Chandigarh Sector 65 SO,160062,PO,Non Delivery,S.A.S Nagar,PUNJAB,30.6762222,76.7421111
+3138,136828,Punjab Circle,Punjab West Region,Jalandhar Division,Jalandhar City HO,144001,HO,Delivery,JALANDHAR,PUNJAB,31.327676,75.587791
+3141,136837,Punjab Circle,Punjab West Region,Jalandhar Division,Ladhewali SO,144007,PO,Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+3142,136838,Punjab Circle,Punjab West Region,Jalandhar Division,Millitary Hospital SO,144005,PO,Non Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+3146,136928,Punjab Circle,Punjab West Region,Kapurthala Division,Kapurthala HO,144601,HO,Delivery,KAPURTHALA,PUNJAB,31.3721893,75.3777881
+3147,136929,Punjab Circle,Punjab West Region,Kapurthala Division,Phagwara HO,144401,HO,Delivery,KAPURTHALA,PUNJAB,31.2529039,75.7614479
+3152,137481,Punjab Circle,Punjab West Region,Hoshiarpur Division,Dasuya HO,144205,HO,Delivery,HOSHIARPUR,PUNJAB,31.81726,75.657304
+3160,138235,Punjab Circle,DivReportingCircle,Chandigarh Division,Baltana SO,140604,PO,Delivery,S.A.S Nagar,PUNJAB,30.6703333,76.8320556
+3163,138562,Punjab Circle,Punjab West Region,Hoshiarpur Division,Hoshiarpur HO,146001,HO,Delivery,HOSHIARPUR,PUNJAB,31.515963,75.904004
+3186,139286,Punjab Circle,Punjab West Region,Jalandhar Division,BSF Campus SO,144006,PO,Non Delivery,JALANDHAR,PUNJAB,31.300299,75.630428
+3213,140789,Punjab Circle,Punjab West Region,Kapurthala Division,RURKA KALAN SO,144031,PO,Delivery,JALANDHAR,PUNJAB,31.52747,75.8066
+3258,142367,Punjab Circle,Punjab West Region,Kapurthala Division,RAIL COACH FACTORY KAPURTHALA SO,144602,PO,Delivery,KAPURTHALA,PUNJAB,31.34831,75.41814
+3277,142476,Punjab Circle,Punjab West Region,Kapurthala Division,PANCHHAT SO,144408,PO,Delivery,KAPURTHALA,PUNJAB,31.3488818,75.8688551
+3288,142630,Punjab Circle,Punjab West Region,Jalandhar Division,Grain Market SO Jalandhar,144008,PO,Delivery,JALANDHAR,PUNJAB,31.326723,75.586847
+3362,146411,Punjab Circle,Punjab West Region,Jalandhar Division,REC Jalandhar SO,144011,PO,Delivery,JALANDHAR,PUNJAB,31.326723,75.586847
+3379,146940,Punjab Circle,Punjab West Region,Jalandhar Division,Chogitti SO,144009,PO,Delivery,JALANDHAR,PUNJAB,31.326723,75.586847
+3387,146948,Punjab Circle,Punjab West Region,Jalandhar Division,Suranussi SO,144027,PO,Delivery,JALANDHAR,PUNJAB,31.326723,75.586847
+3403,147287,Punjab Circle,Punjab West Region,Jalandhar Division,"Nodal Delivery Centre, Jalandhar",144012,PO,Delivery,JALANDHAR,PUNJAB,31.1923,75.3453
+3411,147644,Punjab Circle,DivReportingCircle,Chandigarh Division,Dhakaoli SO,160104,PO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+3413,147646,Punjab Circle,DivReportingCircle,Chandigarh Division,Naya Gaon SO Mohali,160103,PO,Delivery,S.A.S Nagar,PUNJAB,30.692051,76.69841
+3423,148075,Punjab Circle,DivReportingCircle,Ludhiana City Division,AP Basti SO,141003,PO,Non Delivery,LUDHIANA,PUNJAB,30.8946667,75.8503611
+3424,148076,Punjab Circle,DivReportingCircle,Ludhiana City Division,Basant Avenue SO,141013,PO,Delivery,LUDHIANA,PUNJAB,30.8593611,75.8317778
+3425,148077,Punjab Circle,DivReportingCircle,Ludhiana City Division,Dhandari Kalan SO,141014,PO,Delivery,LUDHIANA,PUNJAB,30.8682222,75.9192222
+3465,149702,Punjab Circle,DivReportingCircle,Ludhiana City Division,Gne College SO,141006,PO,Delivery,LUDHIANA,PUNJAB,30.8589167,75.8616389
+3466,149703,Punjab Circle,DivReportingCircle,Ludhiana City Division,Jugiana SO,141017,PO,Delivery,LUDHIANA,PUNJAB,30.846,75.9481111
+3487,150111,Punjab Circle,DivReportingCircle,Patiala Division,D C W SO,147003,PO,Delivery,PATIALA,PUNJAB,30.3569167,76.4189167
+3495,150156,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Halwara Aerodrome SO,141106,PO,Delivery,LUDHIANA,PUNJAB,30.7642861,75.6514138
+3523,150239,Punjab Circle,DivReportingCircle,Ludhiana City Division,New Model Town SO,141002,PO,Non Delivery,LUDHIANA,PUNJAB,30.8949722,75.8413611
+3529,150621,Punjab Circle,DivReportingCircle,Ludhiana City Division,Lohora SO,141016,PO,Delivery,LUDHIANA,PUNJAB,30.848,75.8905
+3569,151022,Punjab Circle,DivReportingCircle,Ludhiana City Division,Jamalpur Awana SO,141010,PO,Non Delivery,LUDHIANA,PUNJAB,30.9023056,75.9041944
+3574,151027,Punjab Circle,DivReportingCircle,Ludhiana City Division,PAU SO,141004,PO,Delivery,LUDHIANA,PUNJAB,30.9023889,75.8146944
+3576,151029,Punjab Circle,DivReportingCircle,Ludhiana City Division,Rajguru Nagar SO,141012,PO,Delivery,LUDHIANA,PUNJAB,30.8803889,75.7908333
+3578,151031,Punjab Circle,DivReportingCircle,Ludhiana City Division,"Nodal Delivery Centre, Ludhiana",141011,PO,Delivery,LUDHIANA,PUNJAB,,
+3593,151964,Punjab Circle,DivReportingCircle,Chandigarh Division,Chandigarh Sector 71 SO,160071,PO,Delivery,S.A.S Nagar,PUNJAB,30.9666111,73.53025
+3616,153371,Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Kila Raipur SO,141201,PO,Delivery,LUDHIANA,PUNJAB,30.7623611,75.8213055
+3646,154084,Punjab Circle,Punjab West Region,Amritsar Division,Golden Temple SO,143006,PO,Non Delivery,AMRITSAR,PUNJAB,31.62,74.88
+3647,154085,Punjab Circle,Punjab West Region,Amritsar Division,Guru Nanak Dev University SO,143005,PO,Delivery,AMRITSAR,PUNJAB,31.63,74.83
+3661,154161,Punjab Circle,Punjab West Region,Amritsar Division,Khalsa College SO,143002,PO,Delivery,AMRITSAR,PUNJAB,31.63,74.84
+3669,154169,Punjab Circle,DivReportingCircle,Patiala Division,University SO,147002,PO,Delivery,PATIALA,PUNJAB,30.3600278,76.4541667
+3678,154273,Punjab Circle,DivReportingCircle,Patiala Division,Nodal Delivery Center (Parcel)  Patiala,147008,PO,Delivery,PATIALA,PUNJAB,30.334,76.386
+3720,154899,Punjab Circle,Punjab West Region,Bhatinda Division,Nfl Bathinda SO,151003,PO,Delivery,BATHINDA,PUNJAB,30.160259,74.891122
+3759,156074,Punjab Circle,Punjab West Region,Bhatinda Division,Bathinda Cantt SO,151004,PO,Delivery,BATHINDA,PUNJAB,30.160259,74.891122
+3770,156087,Punjab Circle,Punjab West Region,Bhatinda Division,NDC Bathinda,151006,PO,Delivery,BATHINDA,PUNJAB,30.2046,74.949
+3816,156524,Punjab Circle,DivReportingCircle,Patiala Division,Fatehgarh Sahib SO,140407,PO,Delivery,FATEHGARH SAHIB,PUNJAB,30.6480833,76.39275
+3836,156931,Punjab Circle,Punjab West Region,Amritsar Division,NODAL DELIVERY OFFICE,143003,PO,Delivery,AMRITSAR,PUNJAB,31.63,74.88
+3837,156932,Punjab Circle,Punjab West Region,Amritsar Division,"Nodal Delivery Centre, Amritsar",143004,PO,Delivery,AMRITSAR,PUNJAB,31.6386,74.8826
